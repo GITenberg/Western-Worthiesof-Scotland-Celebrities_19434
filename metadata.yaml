@@ -1,0 +1,29 @@
+_repo: Western-Worthiesof-Scotland-Celebrities_19434
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jeans, J. Stephen (James Stephen)
+    alias: Jeans, James Stephen
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '8669'
+    url: http://www.gutenberg.org/2009/agents/8669
+description: ''
+gutenberg_issued: '2006-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Biography'
+- !lcc 'DA'
+- !lcc 'CT'
+title: "Western Worthies\r\nA Gallery of Biographical and Critical Sketches of West\
+  \ of Scotland Celebrities"
+url: http://www.gutenberg.org/ebooks/19434
