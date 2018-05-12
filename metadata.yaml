@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8669'
     url: http://www.gutenberg.org/2009/agents/8669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19434#Western-Worthiesof-Scotland-Celebrities
 gutenberg_issued: '2006-10-02'
 gutenberg_type: Text
 identifiers:
